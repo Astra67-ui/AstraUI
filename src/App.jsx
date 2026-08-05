@@ -1,26 +1,26 @@
-import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom'
-import { useState, useEffect } from 'react'
-import Home from './app/Home'
-import Resume from './app/Resume'
-import Projects from './app/Projects'
-import Contact from './app/Contact'
-import Navbar from './components/Navbar'
-import Footer from './components/Footer'
+import { BrowserRouter, Routes, Route, useLocation } from 'react-router-dom';
+import { useState, useEffect } from 'react';
+import Home from './app/Home';
+import Resume from './app/Resume';
+import Projects from './app/Projects';
+import Contact from './app/Contact';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 function AnimatedRoutes() {
-  const location = useLocation()
-  const [displayLocation, setDisplayLocation] = useState(location)
-  const [fadeClass, setFadeClass] = useState('fade-in')
+  const location = useLocation();
+  const [displayLocation, setDisplayLocation] = useState(location);
+  const [fadeClass, setFadeClass] = useState('fade-in');
 
   useEffect(() => {
     if (location !== displayLocation) {
-      setFadeClass('fade-out')
+      setFadeClass('fade-out');
       setTimeout(() => {
-        setDisplayLocation(location)
-        setFadeClass('fade-in')
-      }, 300)
+        setDisplayLocation(location);
+        setFadeClass('fade-in');
+      }, 300);
     }
-  }, [location])
+  }, [location]);
 
   return (
     <div className={fadeClass}>
@@ -31,13 +31,15 @@ function AnimatedRoutes() {
         <Route path="/contact" element={<Contact />} />
       </Routes>
     </div>
-  )
+  );
 }
 
 function App() {
   return (
     <BrowserRouter>
-      <div style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
+      <div
+        style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}
+      >
         <Navbar />
         <div style={{ position: 'relative', flex: 1 }}>
           <AnimatedRoutes />
@@ -45,7 +47,7 @@ function App() {
         <Footer />
       </div>
     </BrowserRouter>
-  )
+  );
 }
 
-export default App
+export default App;

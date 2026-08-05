@@ -11,6 +11,7 @@ function Projects() {
           <div className="project-body">
             <div className="project-tags">
               <span className="project-tag">JavaScript</span>
+              <span className="project-tag">CSS</span>
               <span className="project-tag">HTML</span>
               <span className="project-tag">Java</span>
             </div>
