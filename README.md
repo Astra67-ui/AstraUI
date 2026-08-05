@@ -77,18 +77,4 @@ The website is optimized for:
 
 ---
 
-## 📬 Contact
-
-**Lucky Bautista**
-
-Email: your-email@example.com
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourusername
-
-Portfolio: https://your-vercel-domain.vercel.app
-
----
-
 ⭐ Thank you for visiting my portfolio! Feel free to explore my projects and connect with me.
