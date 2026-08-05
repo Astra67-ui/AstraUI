@@ -1,14 +1,6 @@
 # 💼 Lucky Bautista - Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Bachelor of Science in Computer Science student and aspiring software developer.
-
-## 🌐 Live Demo
-
-Visit the deployed website here:
-
-https://your-vercel-domain.vercel.app
-
-
 ---
 
 ## 📖 About
