@@ -1,16 +1,94 @@
-# React + Vite
+# 💼 Lucky Bautista - Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Bachelor of Science in Computer Science student and aspiring software developer.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Visit the deployed website here:
 
-## React Compiler
+https://your-vercel-domain.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📖 About
+
+This portfolio was created to present my technical skills, academic projects, and personal achievements in one place. It serves as a digital resume where visitors can learn more about me and explore the projects I've built.
+
+---
+
+## ✨ Features
+
+- Responsive design for desktop, tablet, and mobile
+- Modern and clean user interface
+- About Me section
+- Skills and technologies
+- Project showcase
+- Contact information
+- Smooth navigation
+- Fast loading performance
+
+---
+
+## 📂 Project Structure
+
+```
+portfolio/
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── fonts/
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── index.html
+├── README.md
+└── LICENSE
+```
+
+
+---
+
+## 📱 Responsive Design
+
+The website is optimized for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile devices
+
+---
+
+## 🎯 Future Improvements
+
+- Dark/Light mode toggle
+- Project filtering
+- Blog section
+- Downloadable resume
+- Animations and transitions
+- Contact form integration
+- Backend support
+
+---
+
+## 📬 Contact
+
+**Lucky Bautista**
+
+Email: your-email@example.com
+
+GitHub: https://github.com/yourusername
+
+LinkedIn: https://linkedin.com/in/yourusername
+
+Portfolio: https://your-vercel-domain.vercel.app
+
+---
+
+⭐ Thank you for visiting my portfolio! Feel free to explore my projects and connect with me.
