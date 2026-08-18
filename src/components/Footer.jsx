@@ -3,7 +3,7 @@ function Footer() {
     <footer>
       <div className="footer-col">
         <div className="footer-label">Phone</div>
-        <a className="footer-value" href="#">
+        <a className="footer-value">
           +63 976 314 0012
         </a>
       </div>

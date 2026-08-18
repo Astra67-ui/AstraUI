@@ -14,6 +14,7 @@ function Projects() {
               <span className="project-tag">CSS</span>
               <span className="project-tag">HTML</span>
               <span className="project-tag">Java</span>
+              <span className="project-tag">MySQL</span>
             </div>
             <div className="project-name">
               LAMPARA User Account Management System
@@ -28,6 +29,31 @@ function Projects() {
             <a
               className="project-link"
               href="https://user-account-management-system.vercel.app/"
+              target="_blank"
+              rel="noopener norefferer"
+            >
+              View project →
+            </a>
+          </div>
+        </div>
+
+        <div className="project-card">
+          <div className="project-thumb thumb-teal">📋</div>
+          <div className="project-body">
+            <div className="project-tags">
+              <span className="project-tag">React JS</span>
+              <span className="project-tag">CSS</span>
+              <span className="project-tag">HTML</span>
+              <span className="project-tag">Java</span>
+            </div>
+            <div className="project-name">Tache</div>
+            <p className="project-desc">
+              A task management application that provides a centralized place to
+              record, organize, prioritize, and track tasks.
+            </p>
+            <a
+              className="project-link"
+              href="#"
               target="_blank"
               rel="noopener norefferer"
             >
