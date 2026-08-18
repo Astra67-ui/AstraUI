@@ -22,29 +22,6 @@ This portfolio was created to present my technical skills, academic projects, an
 
 ---
 
-## 📂 Project Structure
-
-```
-portfolio/
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── fonts/
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── index.html
-├── README.md
-└── LICENSE
-```
-
-
----
 
 ## 📱 Responsive Design
 
