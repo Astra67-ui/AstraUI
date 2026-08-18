@@ -17,10 +17,10 @@ function Projects() {
               <span className="project-tag">MySQL</span>
             </div>
             <div className="project-name">
-              LAMPARA User Account Management System
+              LAMPARA 
             </div>
             <p className="project-desc">
-              A software application that enables users to securely create,
+              A web application that enables users to securely create,
               manage, and maintain their accounts. It provides essential
               features such as user registration, login, profile management,
               password updates, and account administration while ensuring data
