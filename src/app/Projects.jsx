@@ -41,7 +41,7 @@ function Projects() {
           <div className="project-thumb thumb-teal">📋</div>
           <div className="project-body">
             <div className="project-tags">
-              <span className="project-tag">React JS</span>
+              <span className="project-tag">React TS</span>
               <span className="project-tag">CSS</span>
               <span className="project-tag">HTML</span>
               <span className="project-tag">Java</span>
