@@ -240,6 +240,7 @@ footer {
 .footer-socials i {
   color: var(--gray);
 }
+
 /* Transitions */
 .fade-in {
   opacity: 1;
