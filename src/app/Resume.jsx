@@ -50,7 +50,6 @@ function Resume() {
           <span className="skill-tag">HTML</span>
           <span className="skill-tag">CSS</span>
           <span className="skill-tag">JavaScript</span>
-          <span className="skill-tag">TypeScript</span>
           <span className="skill-tag">React</span>
           <span className="skill-tag">Java</span>
           <span className="skill-tag">MySQL</span>
